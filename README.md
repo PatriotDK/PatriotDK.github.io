@@ -2,7 +2,7 @@
 Repository about current active projects
 # 👋 Hi, I'm Alexander Bork | Cybersecurity, IT Law & Compliance
 
-⚖️ IT-Jurist with a strong interest in **AI, cybersecurity, OSINT, and information security**  
+⚖️ IT-Lawyer with a strong interest in **AI, cybersecurity, OSINT, and information security**  
 🔐 Working at the intersection of **law, technology, governance, and security**
 
 I bring **5+ years of experience across law, IT, compliance, contract management, and regulatory work** from the **public sector, financial sector, and legal practice**.
