@@ -70,8 +70,8 @@ I am especially interested in:
 ## 🛠 Technical Interests & Tools
 
 ### Operating Systems
+- Microsoft Windows
 - Kali Linux
-- Kali Purple
 - ParrotOS
 - Ubuntu
 - Debian
@@ -91,6 +91,7 @@ I am especially interested in:
 - Contractual risk analysis
 - Security governance
 - IT-business alignment
+- Cloud Governance - Microsoft Azure
 
 ---
 
