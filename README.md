@@ -158,7 +158,7 @@ That allows me to act as a bridge between **law, IT, security, and business**, e
 ## 📫 Connect
 
 - LinkedIn: [alexander-bork89](https://www.linkedin.com/in/alexander-bork89)
-- Location: Aabenraa, Region Syddanmark, Denmark
+- Location: Region Syddanmark, Denmark
 
 ---
 
