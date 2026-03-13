@@ -1,6 +1,6 @@
 # Patriot.github.io
 Repository about current active projects
-# 👋 Hi, I'm Alexander Bork | Cybersecurity, IT Law & Compliance
+# 👋 Hi, I'm Alexander | Cybersecurity, IT Law & Compliance
 
 ⚖️ IT-Lawyer with a strong interest in **AI, cybersecurity, OSINT, and information security**  
 🔐 Working at the intersection of **law, technology, governance, and security**
